@@ -1,0 +1,1 @@
+SERPAPI_KEY = "92af3f6a1878e8474d77c87249c8a2c73eafee8eb8fc7364beff51c7bbace987"
